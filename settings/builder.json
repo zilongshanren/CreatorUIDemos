@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.CreatorUIDemos",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "42c39788-5a3e-4dd6-b01e-c4c8d8fa7706",
+  "title": "CreatorUIDemos",
+  "webOrientation": "auto"
+}
